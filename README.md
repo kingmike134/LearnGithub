@@ -8,6 +8,8 @@ Git Add - Tells git to track (in other words pre-SAVE) a new file that you creat
 
 Git Commit - This actually saves the file on git and saves the changes made. It will save these changes and leave a history of all saves, or commits. Think of commit as github's way of saying save. Do this by typing "git commit -m "Type Title of change" -m "Type optional description of change" ". Now this saves the files only locally.
 
+Git Push - Makes the commit live on github repository online. 
+
 
 ## Subheader - Hidden Files
 
